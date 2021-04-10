@@ -75,5 +75,5 @@ Random Forest Regressor | 0.397 | 6.688 | 2.390
 Gradient Boosting Regressor | 0.390 | 6.723 | 2.342
 XG Boost Regressor | 0.367 | 6.850 | 2.356
 
-<b>Please do ⭐ the Repository if you liked my work.</b>
+<b>⭐ the Repository if you liked my work.</b>
 </div>
